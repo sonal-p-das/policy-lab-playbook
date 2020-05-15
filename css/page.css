@@ -188,3 +188,6 @@ body {
     #secondary { width:100%; margin:0; border:none; }
 }
 
+ul {
+    list-style-type: none;
+}

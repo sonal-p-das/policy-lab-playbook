@@ -205,13 +205,12 @@ Other contributors can be found in the contributors section of the Github repo.
 “18F: Digital Service Delivery | 18F Partnership Principles.” Accessed May 1, 2019. https://18f.gsa.gov/partnership-principles/.
 
 ## Image Source
-https://icons8.com/ouch/
+- https://icons8.com/ouch/
+- https://iconscout.com/free-illustrations
+- https://undraw.co/illustrations
+- https://codepen.io/erinesullivan/pen/qGrdGV
+- https://www.freepik.com/free-vector/people-putting-puzzle-pieces-together_5949654.htm
 
-https://iconscout.com/free-illustrations
-
-https://undraw.co/illustrations
-
-https://codepen.io/erinesullivan/pen/qGrdGV
-
-
+## Screen reference
+![Image of Heinz Policy Innovation Lab Playbook](C:\Users\sonal\OneDrive\Documents\GitHub\policy-lab-playbook-dev\images\PIL.png)
 
