@@ -211,6 +211,4 @@ Other contributors can be found in the contributors section of the Github repo.
 - https://codepen.io/erinesullivan/pen/qGrdGV
 - https://www.freepik.com/free-vector/people-putting-puzzle-pieces-together_5949654.htm
 
-## Screen reference
-![Image of Heinz Policy Innovation Lab Playbook](C:\Users\sonal\OneDrive\Documents\GitHub\policy-lab-playbook-dev\images\PIL.png)
 
