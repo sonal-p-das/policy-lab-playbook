@@ -211,6 +211,15 @@ Other contributors can be found in the contributors section of the Github repo.
 - https://codepen.io/erinesullivan/pen/qGrdGV
 - https://www.freepik.com/free-vector/people-putting-puzzle-pieces-together_5949654.htm
 
-## Screen reference
+## Policy Playbook: (http://openglobe.org/policy-lab-playbook/)
 ![Image of Heinz Policy Innovation Lab Playbook](https://github.com/sonalpdas-cmu/policy-lab-playbook/blob/master/images/PIL.png)
+
+## Future Enhancements
+=======
+- Single Page Application using React/Angular JS
+- Adding Heinz Logo
+- Adding Background image to the plays-based page
+- Revising play content (if required)
+- Adding mobile responsiveness (bootstrap)
+
 
